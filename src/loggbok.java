@@ -18,6 +18,10 @@ public class loggbok {
 
     }
 
+    private static boolean choose(ArrayList<LogEntry> post, Scanner tgb) {
+        return false;
+    }
+        //välj ett alternativ.
     private static void printMenu() {
         System.out.println("Välj:"+"\n"
                 + "1. Visa loggbok \n"
